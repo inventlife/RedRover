@@ -1,5 +1,5 @@
-These meshes are scaled up to match the go-kart used in the Red Rover project.
+These files set the pramaters for the vehicle model so that it matches the go-kart used in the Red Rover project
 
-They should replace the files of the same name at build/simapp/bundle/opt/install/deepracer_simulation_environment/share/deepracer_simulation_environment/meshes
+They should replace the files of the same name at build/simapp/bundle/opt/install/deepracer_simulation_environment/share/deepracer_simulation_environment/urdf
 
 This is an article that will explain how to access the model files https://inventlifenet.wordpress.com/2020/08/29/month-8-editing-the-deepracer-model/
