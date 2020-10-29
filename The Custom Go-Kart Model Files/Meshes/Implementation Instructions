@@ -1,0 +1,5 @@
+These meshes are scaled up to match the go-kart used in the Red Rover project.
+
+They should replace the files of the same name at build/simapp/bundle/opt/install/deepracer_simulation_environment/share/deepracer_simulation_environment/meshes
+
+This is an article that will explain how to access the model files https://inventlifenet.wordpress.com/2020/08/29/month-8-editing-the-deepracer-model/
